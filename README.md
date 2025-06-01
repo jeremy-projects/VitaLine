@@ -5,11 +5,11 @@ Este programa permite gestionar una base de datos de donantes de sangre organiza
 
 # ¿Cómo está estructurado el código?
 El código está compuesto por cuatro clases principales:
-1. DonanTe: representa a una persona donante.
-2. NodoCiudad: representa un nodo del árbol, con una ciudad y su lista de
+*1. DonanTe:* representa a una persona donante.
+*2. NodoCiudad:* representa un nodo del árbol, con una ciudad y su lista de
 donantes.
-3. ArbolCiudades: gestiona el árbol binario y la lógica de los donantes.
-4. Código principal (main): contiene el menú con las opciones que el usuario
+*3. ArbolCiudades:* gestiona el árbol binario y la lógica de los donantes.
+*4. Código principal (main):* contiene el menú con las opciones que el usuario
 puede elegir para interactuar con el sistema.
 
 # Flujo general del programa:
