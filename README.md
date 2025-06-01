@@ -18,8 +18,7 @@ puede elegir para interactuar con el sistema.
 - El programa ejecuta la lógica correspondiente usando métodos de 
 ArbolCiudades.
 
-# ¿Cuál es la finalidad o el propósito principal del
-programa?
+# ¿Cuál es la finalidad o el propósito principal del programa?
 El objetivo es llevar un registro ordenado y accesible de donantes de sangre por ciudad. Permite:
 Agregar donantes.
 - Ver donantes por ciudad.
