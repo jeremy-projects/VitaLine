@@ -1,6 +1,4 @@
 # VitaLine
-Base de datos para registrar donantes de sangre por ciudad.
-
 Este programa permite gestionar una base de datos de donantes de sangre organizados por ciudad. Utiliza un árbol binario de búsqueda (BST) para almacenar ciudades, y en cada ciudad, mantiene una lista enlazada de donantes. Los datos pueden ser agregados, consultados, ordenados y modificados a través de una interfaz gráfica sencilla con JOptionPane.
 
 # ¿Cómo está estructurado el código?
