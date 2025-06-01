@@ -26,16 +26,16 @@ Agregar donantes.
 - Eliminar donantes.
 
 # ¿Para qué sirve cada clase?
-1. DonanTe
+**1. DonanTe**
 - Representa a un donante individual.
 - Contiene: id, nombre, tipoSangre, fechaUltimaDonacion y un puntero siguiente (para formar una lista enlazada).
 
-2. NodoCiudad
+**2. NodoCiudad**
 - Nodo del árbol binario de búsqueda.
 - Representa una ciudad.
 - Contiene: nombreCiudad, punteros a izquierda y derecha, y una cabeza de lista enlazada de donantes.
 
-3. ArbolCiudades
+**3. ArbolCiudades**
 - Clase más importante.
 - Implementa un árbol binario para organizar las ciudades alfabéticamente.
 - Gestiona toda la lógica del programa: agregar, eliminar, buscar, ordenar y
