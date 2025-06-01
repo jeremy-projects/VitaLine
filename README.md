@@ -40,3 +40,9 @@ Agregar donantes.
 - Implementa un árbol binario para organizar las ciudades alfabéticamente.
 - Gestiona toda la lógica del programa: agregar, eliminar, buscar, ordenar y
 actualizar donantes.
+
+# Participantes del proyecto:
+- Marianella Marrugo
+- Maria del Carmen
+- Santiago Zurita
+- Jeremy Alexander
